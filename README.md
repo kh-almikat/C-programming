@@ -1,4 +1,4 @@
-# C
+
 # 🌟 C Programming Project
 <p align="center"> <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Compiler-GCC-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge"> </p>
 
@@ -58,7 +58,7 @@ IDE / Editor	VS Code, Code::Blocks <br><br>
 
 # 👨‍💻 Author
 
-👤 Khondoker Almikat  
+### 👤 Khondoker Almikat  
 📧 khondoker.almikat@gmail.com  
 🌐 Bangladesh <br><br>
 
