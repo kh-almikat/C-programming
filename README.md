@@ -58,7 +58,7 @@ IDE / Editor	VS Code, Code::Blocks <br><br>
 
 # 👨‍💻 Author
 
-### 👤 Khondoker Almikat  
+👤 Khondoker Almikat  
 📧 khondoker.almikat@gmail.com  
 🌐 Bangladesh <br><br>
 
