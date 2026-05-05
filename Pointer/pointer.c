@@ -1,15 +1,17 @@
 #include<stdio.h>
 int main()
 {
-    int x = 5;
-    int *ptr;
-    ptr = &x;
+    int x = 10;
+    printf("%d\n", x);
+    printf("%p\n", &x); // x r address print
 
-    printf("X value = %d\n", x);          // 5
-    printf("Address of X = %p\n", &x);   // x এর address
-    printf("Pointer value = %p\n", ptr); // ptr এর মধ্যে যা আছে = x এর address
-    printf("Pointer dereference = %d\n", *ptr); // *ptr = 5
-    printf("Address of ptr = %p\n", &ptr);     // ptr এর নিজের address
+    int *ptr;
+    ptr = &x; // x r address pointer r vitor store
+    printf("%p\n", ptr);
+
+    printf("%p/n", &ptr); // pointer variable r address
+
+    printf("%d", *ptr); // Dereferencing a pointer
 
     return 0;
 }

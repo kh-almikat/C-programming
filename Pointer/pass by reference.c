@@ -11,6 +11,7 @@ int main()
     printf("before modification = %d\n", x);
 
     modify(&x);   // address send
+    
     printf("after modification = %d\n", x);
 
     return 0;
